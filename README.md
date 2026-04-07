@@ -1,4 +1,7 @@
 # Household Financial Security Sentiment in the Ottawa/Gatineau Region
+<img width="1920" height="510" alt="image" src="https://github.com/user-attachments/assets/2b5e520d-252b-4690-80dc-a9bd7c621a81" />
+image from: https://adventures.com/canada/attractions/cities-towns/ottawa/ </br></br>
+
 This project looks at the survey responses from households in the Ottawa/Gatineau Region in regards to a specific question posted in various surveys from the government of Canada. Respondents were asked:
 <br><b>"In the past 12 months, how difficult or easy was it for your household to meet its financial needs in terms of transportation, housing, food, clothing, and other necessary expenses?"</b>
 * Very difficult
